@@ -1,2 +1,2 @@
-# Aseptekni
+# Asepteknik
 My Github Profile
